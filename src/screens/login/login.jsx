@@ -1,5 +1,5 @@
 import React from "react";
-import loginImage from "../../login.jpeg"
+import loginImage from "../../Images/login.jpeg"
 
 
 export class Login extends React.Component{
